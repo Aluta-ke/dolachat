@@ -1,0 +1,9 @@
+{
+  "name": "dolachat",
+  "version": "1.0.0",
+  "private": true,
+  "description": "DolaChat static site",
+  "scripts": {
+    "start": "npx --yes serve -l 3000"
+  }
+}
